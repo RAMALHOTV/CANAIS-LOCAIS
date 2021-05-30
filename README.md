@@ -35,8 +35,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg",CATVE by-Ramalhotv
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2140063674.m3u8
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://imgur.com/8catiCV.png",SBT TV Serra Dourada GO by-Ramalhotv
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://imgur.com/5FSHzvg.png",TV Cultura by-Ramalhotv
 https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://imgur.com/dQRl59I.png",TV Manchete by-Ramalhotv
@@ -71,9 +69,6 @@ https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PI
 http://stmv1.transmissaodigital.com:1935/cidadeverde/cidadeverde/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PA
-https://srv-mc.sistemafloresta.com.br/sbt_live/index.m3u8?token=6f0315f72918701a1dec142039e2080e
-
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT MT
 http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="BAND" tvg-logo="http://i.imgur.com/x70tdT3.png" group-title="TV Aberta",Band SP
@@ -102,11 +97,7 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1097050
 #EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="TV Aberta",Rede TV PB HD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1097050111_b2434992_DVR.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bbb21.png" group-title="Variedades", BBB 21 - Big Brother Brasil
-https://listaiptv.gratis/bbb21.mp4
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
- #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal Caruaru (PE)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal Caruaru (PE)
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Cidade Verde - (PI)
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
@@ -116,8 +107,5 @@ https://srv-mc.sistemafloresta.com.br/sbt_live/index.m3u8?token=6f0315f72918701a
 https://diulq15o39.zoeweb.tv/z437-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Serra Dourada - (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
-https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w291063918.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Rede Massa (PR)
-https://cdn-radio-8465-1.ciclano.io:1443/radio-8465-1/radio-8465-1/playlist.m3u8
+
 
