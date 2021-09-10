@@ -5,6 +5,10 @@ http://distv.
 
 
 ################################################################################ TV Aberta
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO RPC PARANAVAI HD
+http://conexaoonline.life:80/162466827635269/169924/27437
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO RPC PARANAVAI SD
+http://conexaoonline.life:80/162466827635269/169924/27436
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://imgur.com/ualVUwe.png" group-title="TV Aberta",Bons Tempos TV 
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
